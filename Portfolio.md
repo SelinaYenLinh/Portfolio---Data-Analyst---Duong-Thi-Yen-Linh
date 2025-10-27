@@ -31,7 +31,7 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Performance**: load < 3s (fill); refresh daily/weekly (fill); adoption +N MAU (fill).  
 Stack: Power BI, DAX/M, SQL, Power Query.
 
-![](D:\Portfolio - Data Analyst - Duong Thi Yen Linh\Brazilian E-Commerce Public Dataset by Olist\OverView.jpg)
+
 
 
 
