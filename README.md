@@ -22,7 +22,7 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Tech Stack**: SQL · Power BI (DAX/M) · Python (Pandas/Matplotlib) · Excel/Power Query · Star Schema · Basic ML/Forecasting
 ## Projects
 
-### [Power BI — Sales & Operations Storytelling](https://github.com/<yourUser>/powerbi-sales-ops-storytelling)
+### [Power BI — Sales & Operations Storytelling](https://github.com/SelinaYenLinh/Power-BI-Brazilian_E-Commerce.git)
 **Goal:** 30s narrative for leaders on **Sales / Inventory / Delivery** using a **Star Schema** (Fact Orders/Items; Dim Customers/Products/Dates).  
 **KPIs:** Gross Sales, Margin, Stock Coverage, Stockout Rate, OTIF/Lead Time.  
 **Design:** Cards → Trends → **Drill-through**; role pages (Director / Sales / Ops).  
