@@ -29,7 +29,7 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Results:** load **<3s**, refresh **daily/weekly**, adoption **+N MAU**, manual reporting **↓X%**.  
 **Stack:** Power BI, DAX/M, SQL, Power Query  
 **Screenshots:**  
-![Overview](Brazilian_E-Commerce_Public_Dataset_by_Olist/OverView.jpg)
+![Overview](Assets/OverView.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Findings:** speed & height **↑ đáng kể** qua các thập kỷ; **steel vs wooden** có xu hướng khác biệt; coasters hiện đại **mạnh hơn** (G-force).  
 **Stack:** Pandas, Matplotlib, Seaborn, ydata-profiling  
 **Screenshots:**  
-![Trend by Decade](Exploratory-Data-Analysis/Assets/Roller_Coaster_Design_Trend_By_Decade.png)
+![Trend by Decade](Assets/Roller_Coaster_Design_Trend_By_Decade.png)
 
 ---
 
@@ -49,4 +49,4 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Results (sample):** Accuracy **96%**, Precision **91%**, Recall **97%**, F1 **94%** *(điền số thực)*.  
 **Stack:** pandas, scikit-learn, plotly, matplotlib, seaborn, yaml  
 **Screenshots:**  
-![Segments (KMeans)](Smart_Loan_Recovery_System_With_Machine_Learning/Borrower_Segments_Based_on_Monthly_Income_and_Loan_Amount.png)
+![Segments (KMeans)](Assets/Borrower_Segments_Based_on_Monthly_Income_and_Loan_Amount.png)
