@@ -13,11 +13,11 @@
 Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, Power BI (DAX/M), Python (Pandas), and data storytelling. Built sales & operations dashboards and contributed to ~+10% forecast‑accuracy via seasonality and standardized inputs.
 
 ### Highlights / Achievements  
-    • Contributed to +10% forecast‑accuracy by standardizing inputs and integrating seasonality into analysis & dashboards.
+- Contributed to +10% forecast‑accuracy by standardizing inputs and integrating seasonality into analysis & dashboards.
 
-    • Power BI storytelling dashboards (cards → trends → drill‑through) improving business visibility and reducing manual reporting.
+- Power BI storytelling dashboards (cards → trends → drill‑through) improving business visibility and reducing manual reporting.
 
-    • ETL automation with VBA/Power Query, cutting report prep time (fill actual: ↓X%).
+- ETL automation with VBA/Power Query, cutting report prep time (fill actual: ↓X%).
 
 **Tech Stack**: SQL · Power BI (DAX/M) · Python (Pandas/Matplotlib) · Excel/Power Query · Star Schema · Basic ML/Forecasting
 
