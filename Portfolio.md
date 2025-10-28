@@ -158,7 +158,7 @@ Inspect structurer
     ```
 
 
-![](Assets/Top_10_Year_Introduced.png)
+![](Exploratory-Data-Analysis/Assets/Top_10_Year_Introduced.png)
 
 - Distribution of coaster speeds and heights
 
@@ -167,7 +167,7 @@ Inspect structurer
     ax.set_xlabel(["Speed MPH"])
     ```
 
-    ![Speed MPH](Assets/Speed_MPH_Hist.png)
+    ![Speed MPH](Exploratory-Data-Analysis/Assets/Speed_MPH_Hist.png)
 
     ```python
     ax = df['Speed MPH'].plot(kind='kde', title="Speed MPH")
@@ -175,7 +175,7 @@ Inspect structurer
     plt.show()
     ```
 
-    ![Speed MPH](Assets/Speed_MPH_Kde.png)
+    ![Speed MPH](Exploratory-Data-Analysis/Assets/Speed_MPH_Kde.png)
 
 - Categorical distributions (e.g., coaster types)
 
@@ -184,7 +184,7 @@ Inspect structurer
     plt.show()
     ```
 
-    ![alt text](Assets/Three_Types_Bar.png)
+    ![alt text](Exploratory-Data-Analysis/Assets/Three_Types_Bar.png)
     
 
 - Scatterplots: Speed vs Height, with color by year
@@ -193,14 +193,14 @@ Inspect structurer
     df.plot(kind='scatter', x='Speed MPH', y='Height FT', title='Coaster Speed vs Height')
     ```
 
-    ![Coaster Speed vs Height](Assets/Coaster_Speed_vs_Height_Plot.png)
+    ![Coaster Speed vs Height](Exploratory-Data-Analysis/Assets/Coaster_Speed_vs_Height_Plot.png)
 
     ```python
     ax = sns.scatterplot(x='Speed MPH', y='Height FT', hue='Year Introduced', data=df)
     ax.set_title('Coaster Speed vs Height')
     ```
 
-    ![Coaster Speed vs Height](Assets/Coaster_Speed_vs_Height_SNS.png)
+    ![Coaster Speed vs Height](Exploratory-Data-Analysis/Assets/Coaster_Speed_vs_Height_SNS.png)
     
 4. 🔗 Feature Relationships
 - Pair plots by Type
@@ -211,7 +211,7 @@ Inspect structurer
              hue='Type Main')
     plt.show()
     ```
-    ![alt text](Assets/Pairplot_By_Types.png)
+    ![alt text](Exploratory-Data-Analysis/Assets/Pairplot_By_Types.png)
 - Correlation heatmap of key numeric features
 
     ```python
@@ -219,7 +219,7 @@ Inspect structurer
     sns.heatmap(df_corr, annot=True)
     plt.show()
     ```
-    ![](Assets/HeatMap.png)
+    ![](Exploratory-Data-Analysis/Assets/HeatMap.png)
 5. 📈 Advanced Trend Analysis
 - Average Speed by Coaster Type
     ```python
@@ -256,7 +256,7 @@ Inspect structurer
     plt.show()
     ```
 
-    ![alt text](Assets/Average_Speed_By_Decade.png)
+    ![alt text](Exploratory-Data-Analysis/Assets/Average_Speed_By_Decade.png)
 
 🔍 Key Insights  
 - Coaster speed and height have significantly increased over decades
