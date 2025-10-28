@@ -21,7 +21,8 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 
 **Tech Stack**: SQL · Power BI (DAX/M) · Python (Pandas/Matplotlib) · Excel/Power Query · Star Schema · Basic ML/Forecasting
 
-### Projects
+## Projects
+
 #### **Power BI Sales & Operations — Storytelling Dashboard**  
 **Goal**: Give leadership and planners a clear narrative of performance (Sales/Inventory/Delivery) within 30 seconds.  
 **Dataset**: Orders/Items, Customers, Products, Dates (sample or anonymized real structure).  
@@ -30,6 +31,18 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Visual Design**: Cards → Trend → Drill‑through; role‑based pages (Director / Sales / Ops).  
 **Performance**: load < 3s (fill); refresh daily/weekly (fill); adoption +N MAU (fill).  
 Stack: Power BI, DAX/M, SQL, Power Query.  
+
+![](Brazilian_E-Commerce_Public_Dataset_by_Olist/OverView.jpg)
+
+![](Brazilian_E-Commerce_Public_Dataset_by_Olist/Product&SellerPerformance.jpg)
+
+![](Brazilian_E-Commerce_Public_Dataset_by_Olist/OverView.jpg)
+
+![](Brazilian_E-Commerce_Public_Dataset_by_Olist/OverView.jpg)
+
+![](Brazilian_E-Commerce_Public_Dataset_by_Olist/OverView.jpg)
+
+![](Brazilian_E-Commerce_Public_Dataset_by_Olist/OverView.jpg)
 
 #### **Python — EDA (Roller Coaster Design Evolution)**
 
