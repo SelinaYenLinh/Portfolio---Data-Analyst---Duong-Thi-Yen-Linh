@@ -26,7 +26,7 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Goal:** 30s narrative for leaders on **Sales / Inventory / Delivery** using a **Star Schema** (Fact Orders/Items; Dim Customers/Products/Dates).  
 **KPIs:** Gross Sales, Margin, Stock Coverage, Stockout Rate, OTIF/Lead Time.  
 **Design:** Cards → Trends → **Drill-through**; role pages (Director / Sales / Ops).  
-**Results:** load **<3s**, refresh **daily/weekly**, adoption **+N MAU**, manual reporting **↓X%**.  
+**Results:** load **<3s**, refresh **daily/weekly**  
 **Stack:** Power BI, DAX/M, SQL, Power Query  
 **Screenshots:**  
 ![Overview](Assets/OverView.jpg)
