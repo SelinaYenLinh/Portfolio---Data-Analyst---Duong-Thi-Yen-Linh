@@ -36,7 +36,7 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 ### [Python — EDA: Roller Coaster Design Evolution](https://github.com/SelinaYenLinh/Exploratory-Data-Analysis.git)
 **Goal:** Clean & analyze the evolution of coaster design by decade.  
 **Skills:** cleaning/preprocessing, aggregation, correlations, trend-by-decade, **ydata-profiling**.  
-**Findings:** speed & height **↑ đáng kể** qua các thập kỷ; **steel vs wooden** có xu hướng khác biệt; coasters hiện đại **mạnh hơn** (G-force).  
+**Findings:** Speed and height increased significantly over time; steel vs. wooden coasters show contrasting trends; modern coasters exhibit higher G-forces. 
 **Stack:** Pandas, Matplotlib, Seaborn, ydata-profiling  
 **Screenshots:**  
 ![Trend by Decade](Assets/Roller_Coaster_Design_Trend_By_Decade.png)
@@ -44,16 +44,16 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 ---
 
 ### [Smart Loan Recovery System — Machine Learning](https://github.com/SelinaYenLinh/Smart-Loan-Recovery-System-With-Machine-Learning.git)
-**Goal:** Phân khúc người vay & dự đoán **khả năng thu hồi** để hỗ trợ chiến lược.  
+**Goal:** Segment borrowers and predict recovery success to support strategy decisions.
 **Features:** KMeans segmentation, RandomForest classification, Plotly visuals, pipeline modules, model export.  
-**Results (sample):** Accuracy **96%**, Precision **91%**, Recall **97%**, F1 **94%** *(điền số thực)*.  
+**Results (sample):** Accuracy **96%**, Precision **91%**, Recall **97%**, F1 **94%** 
 **Stack:** pandas, scikit-learn, plotly, matplotlib, seaborn, yaml  
 **Screenshots:**  
 ![Segments (KMeans)](Assets/Borrower_Segments_Based_on_Monthly_Income_and_Loan_Amount.png)
 
 ### [Nghiệm Kho + GPS — Excel/VBA Automation](https://github.com/SelinaYenLinh/Warehouse-Management.git)
 
-**Goal**: Tự động hóa nghiệp vụ nghiệm kho & theo dõi GPS cho hệ thống vận tải nội bộ.  
+**Goal**: Automate warehouse auditing and GPS tracking for internal transportation operations.
 **Features**: Audit Log, Machine_ID validation, GPS log import, Google Apps Script sync, animated Excel UI.  
 **Results** : Reduced manual audit time by ~40%, improved data accuracy & traceability.  
 **Stack**: Excel VBA, Google Apps Script, Power Query, JSON API  
