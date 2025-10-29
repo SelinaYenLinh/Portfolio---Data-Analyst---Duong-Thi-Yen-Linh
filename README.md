@@ -58,4 +58,4 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Results** : Reduced manual audit time by ~40%, improved data accuracy & traceability.  
 **Stack**: Excel VBA, Google Apps Script, Power Query, JSON API  
 
-![]()
+![After Load File](Assets/AfterLoadFile.jpg)
